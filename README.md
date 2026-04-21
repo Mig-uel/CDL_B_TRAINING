@@ -59,7 +59,7 @@ The pre-trip inspection is a critical component of CDL B road test. It involves 
 - Shut off the engine, remove the key and put it in your pocket, and exit the vehicle maintaining three points of contact.
 - Go where the examiner instructs you to perform either Form A or Form B
 
-## Form A
+# Form A
 
 - Perform the road test setup.
   - Turn on the **Kill Switch** located on the passenger side of the vehicle.
@@ -77,6 +77,20 @@ The pre-trip inspection is a critical component of CDL B road test. It involves 
   - Be sure to maintain three points of contact when opening and closing the hood.
   - Check to see that the locking mechanism is securely in place.
 
+### Passenger Side Engine Compartment
+
 - Stay on the **passenger side** of the engine compartment and perform the following checks:
   - **Engine Compartment**: "There are no fluids dripping from the underside of the engine or transmission. There are no puddles on the ground."
-  - **Coolant Reservoir and Tank**: "The
+  - **Coolant Reservoir and Tank**: "The coolant tank is properly mounted and secure. It is not cracked, bent, or broken. The fluid is within the safe operating range and above the refill mark. There are no visible leaks."
+  - **Water Pump**: "The water pump is properly mounted and secure. It is not cracked, bent, or broken. There are no visible leaks. It is belt-driven. The belt is not cracked or frayed. When pulled, the free play at the center of the belt is between **1/2 and 3/4 of an inch**."
+  - **General Hoses**: "All hoses are properly mounted and secure both ends. They have no abrasions, bulges, or cuts. There are no visible or audible leaks."
+
+### Driver Side Engine Compartment
+
+- Walk over to the **driver side** of the engine compartment and perform the following checks:
+  - **Power Steering Pump**: "The power steering pump is properly mounted and secure. It is not cracked, bent, or broken. There are no visible leaks. It is gear-driven."
+  - **Air Compressor**: "The air compressor is properly mounted and secure. It is not cracked, bent, or broken. There are no visible or audible leaks. It is gear-driven."
+  - **Power Steering Reservoir**: "The power steering reservoir is properly mounted and secure. It is not cracked, bent, or broken. There are no visible leaks. To check the fluid level, I would remove the cap, take out the dipstick, wipe it clean, reinsert it fully, and then remove it again to check the fluid level is withing the safe operating range and above the refill mark."
+  - **Oil Level**: "The engine oil dipstick is secure. To check the oil level, the engine must be off. I would pull out the dipstick, wipe it clean, reinsert it fully, and then remove it again to check that the oil level is within the safe operating range and above the refill mark."
+  - **Alternator**: "The alternator is properly mounted and secure. It is not cracked, bent, or broken. All wires are properly mounted and secure at both ends. It is belt-driven. The belt is not cracked or frayed. When pulled, the free play at the center of the belt is between **1/2 and 3/4 of an inch**."
+  - **Steering Box and Hoses**: "The steering box is properly mounted and secure. It is not cracked, bent, or broken. There are no missing nuts or bolts. All hoses are properly mounted and secure at both ends. They have no abrasions, bulges, or cuts. There are no visible leaks."
